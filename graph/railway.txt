@@ -1,0 +1,14 @@
+beijing tianjin 137
+tianjin xingcheng 408
+xingcheng shenyangbei 319
+shenyangbei changchun 305
+changchun haerbin 242
+beijing jinan 497
+jinan bengbu 482
+bengbu nanjing 181
+jinan shanghai 303
+shanghai jiashan 92
+jiashan haining 45
+haining hangzhou 64
+hangzhou shaoxing 63
+shaoxing ningbo 108
